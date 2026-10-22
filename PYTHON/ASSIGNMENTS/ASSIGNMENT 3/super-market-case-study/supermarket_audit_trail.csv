@@ -1,0 +1,6 @@
+Step,Rows Before,Rows After,Rows Removed
+Remove exact duplicates,8631,8601,30
+Resolve duplicate Invoice IDs,8601,8576,25
+Standardize text columns,8576,8576,0
+Fix negative Quantity,8576,8576,0
+Remove rows with missing/invalid Date,8576,8453,123
