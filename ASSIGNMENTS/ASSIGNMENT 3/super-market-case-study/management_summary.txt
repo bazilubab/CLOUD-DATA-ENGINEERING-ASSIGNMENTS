@@ -1,0 +1,5 @@
+Total revenue across all branches: $2,393,018.79.
+Total transactions in the cleaned data: 8453.
+Best branch-quarter: c, 2024Q4 ($140,098.58).
+Weakest branch-quarter: b, 2024Q2 ($78,909.11).
+Branch-quarter results meeting the $100,000 target: 9 out of 24.
